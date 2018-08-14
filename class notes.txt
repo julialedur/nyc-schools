@@ -1,0 +1,19 @@
+
+framework = really big library 
+
+CRUD websites 
+- Create 
+- Read 
+- Update 
+- Delete
+
+Python - Django 
+Flask 
+
+ORM = Object Relations Mapper 
+"we hate writing SQL so we use some code to do it for us"
+
+SQLAlchemy 
+Peewee 
+
+ActiveRecord 
